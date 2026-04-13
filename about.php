@@ -64,7 +64,7 @@ if(isset($_SESSION['user_id'])){
    <div class="swiper-wrapper">
 
       <div class="swiper-slide slide">
-         <img src="images/ali1.png" alt="">
+         <img src="images/john.png" alt="">
          <p>“Wide variety of products at affordable prices with an easy checkout process.”</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -73,11 +73,11 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>Ali Khojjada</h3>
+         <h3>John</h3>
       </div>
 
       <div class="swiper-slide slide">
-         <img src="images/kais.png" alt="">
+         <img src="images/jarvish.png" alt="">
          <p>“Great website with a smooth shopping experience and fast delivery”</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -86,11 +86,11 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>Kais Ghanchi</h3>
+         <h3>jarvish</h3>
       </div>
 
       <div class="swiper-slide slide">
-         <img src="images/vikas.png" alt="">
+         <img src="images/bot.png" alt="">
          <p>“User-friendly design and excellent customer service.”</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -99,7 +99,7 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>Vikas Jaysval</h3>
+         <h3>bot</h3>
       </div>
 
      
